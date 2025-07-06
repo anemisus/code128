@@ -60,7 +60,7 @@ A: Dafür stehen verschiedene optionale Parameter zur Verfügung:
   *`[num]` = gewünschte Anzahl der Zeilen (standardmäßig 0)*
 
 - Parameter `-s [num]` legt die Höhe des Barcodes fest.  
-  *`[num]` = gewünschte Anzahl der Zeilen (standardmäßig 0)*
+  *`[num]` = gewünschte Anzahl der Zeilen (standardmäßig 1)*
 
 ## F: Warum sieht die Ausgabe kaputt aus? 🥴
 
